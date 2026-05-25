@@ -1,0 +1,25 @@
+# dependencies
+node_modules
+
+# env files
+.env
+
+# uploads
+uploads
+
+# logs
+*.log
+
+# build
+build
+dist
+
+# coverage
+coverage
+
+# docker
+.docker
+
+# OS files
+.DS_Store
+Thumbs.db
